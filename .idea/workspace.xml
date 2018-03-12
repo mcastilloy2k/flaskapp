@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab2432f0-225e-4516-a9ae-f6c5dc3f124e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Marvin_Castillo.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/flaskapp.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/endpoints/test.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/restplus.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/routes.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/flaskapp.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/logging.conf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/settings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/zappa_settings.json" />
-    </list>
+    <list default="true" id="ab2432f0-225e-4516-a9ae-f6c5dc3f124e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -159,7 +143,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1325" />
     <option name="y" value="140" />
     <option name="width" value="1226" />
@@ -298,7 +282,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1325" y="140" width="1226" height="1214" extended-state="0" />
+    <frame x="1325" y="140" width="1226" height="1214" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18677686" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
